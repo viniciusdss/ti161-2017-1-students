@@ -16,6 +16,6 @@ Prof. Alexander Robert Kutzke
 
 1. Crie um "Fork" deste repositório;
 2. No seu novo repositório, altere o arquivo `students-XYZ.yml`, adicionando seu nome e dados (siga o padrão. Em caso de dúvidas, consulte: http://www.yaml.org/);
-  * Alunos da turma da *Tarde* devem alterar o arquivo *`students-tarde.yml`*;
-  * Alunos da turma da *Noite* devem alterar o arquivo *`students-noite.yml`*.
+  * Alunos da turma da **Tarde** devem alterar o arquivo **`students-tarde.yml`**;
+  * Alunos da turma da **Noite** devem alterar o arquivo **`students-noite.yml`**.
 3. Abra um novo pull-request para o repositório original.
